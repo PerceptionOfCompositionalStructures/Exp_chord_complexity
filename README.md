@@ -1,6 +1,6 @@
 # Exp_chord_complexity
 
-Please download the whole project as a zip file. Unzip it in your computer and run `PairCompTestController`, please choose your unzip folder. Then a message box will pop out to ask you some information before the experiment.
+Please download the whole project as a zip file. Unzip it in your computer and run `PairCompTestController`. When prompted to select a folder, choose the unzipped folder which contains the program. Then a message box will pop out to ask you some information before the experiment.
 
 In case the program cannot run, please follow the instructions below:
 
