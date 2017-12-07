@@ -1,4 +1,4 @@
-# Exp_chord_complexity
+# Chord Complexity Experiment
 
 This experiment is done by Yaolong Ju, William Duffy, and Philippe Macnab-Séguin. The experiment asks the subject to rate the level of complexity for each chord. 
 
