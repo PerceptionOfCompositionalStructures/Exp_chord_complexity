@@ -1,0 +1,6 @@
+# Testday: 20171206-21_46_40, Name: test
+Chord 3.wav:3
+Chord 1.wav:4
+Chord 2.wav:5
+Chord 4.wav:6
+Chord 5.wav:7
