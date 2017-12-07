@@ -13,7 +13,7 @@ In case the program cannot run (in MacOS), please follow the instructions below:
 3. At the bottom of the “General” section, there will be a message saying that “Program” was clocked from opening; click the button labeled “Open Anyway".
 4. Program will launch, and security dialogue will appear a second time; click “Open” to open the program and proceed with the experiment.
 
-When the experiment finished, please go to the unzip folder, go into `Results` folder and the text file with your McGill ID will be your test result, then please send the result to Yaolong Ju (yaolong.ju@mail.mcgill.ca).
+When the experiment finished, please go to the unzip folder, go into `Results` folder and the text file with your McGill ID will be your test result, then please send the result (text file, DON'T COPY the content of the text file to the email!) to Yaolong Ju (yaolong.ju@mail.mcgill.ca).
 
 Also, if you have any question regarding the experiment, please contact Yaolong Ju (yaolong.ju@mail.mcgill.ca). Thank you for your cooperation! 
 
