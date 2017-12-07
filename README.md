@@ -2,7 +2,7 @@
 
 This experiment is done by Yaolong Ju, William Duffy, and Philippe Macnab-Séguin. The experiment asks the subject to rate the level of complexity for each chord. 
 
-The experiment has been tested successfully on Windows 10 (64bit) and MacOS Sierra. The download link is here: [Windows](https://www.dropbox.com/s/v0jlncydj3o2y5u/Exp_chord_complexity_standalone_WIN64.zip?dl=0), [MacOS](https://www.dropbox.com/s/fchw5xw2ghtf63q/Exp_chord_complexity_standalone_MACOS.zip?dl=0). **For the best experience of the experiment, please make sure your computer either has Windown 10 or MacOS Sierra.**
+The experiment has been tested successfully on Windows 10 (64bit) and MacOS Sierra. The download link is here: [Windows](https://www.dropbox.com/s/v0jlncydj3o2y5u/Exp_chord_complexity_standalone_WIN64.zip?dl=0), [MacOS](https://www.dropbox.com/s/fchw5xw2ghtf63q/Exp_chord_complexity_standalone_MACOS.zip?dl=0). **For the best experience of the experiment, please make sure your computer either has Windown 10 or MacOS Sierra (Other versions of OS might not work).**
 
 When you manage to download the zip file, please unzip it in your computer and run `PairCompTestController`. When prompted to select a folder, choose the unzipped folder which contains the program. Then a message box will pop out to ask you some information before the experiment.
 
